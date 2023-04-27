@@ -15,6 +15,7 @@ function checkTicketNo() {
 	return true;
   }
 }
+//เพิ่ม funtion ที่ต้องใส่ข้อมูลทุกช่องเท่านั้น
 
 function validateForm(){
 	if(!checkNID()){
